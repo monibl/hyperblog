@@ -1,0 +1,4 @@
+Este es mi primer acercamiento con git y github
+
+Estoy muy entusiasmado y espero que todo salga bien
+nunca quiero parar de aprender.
