@@ -8,3 +8,9 @@ agregando cambios para mi segundo commit.
 Hoy hablaremos de una vida y obra maestra
 
 jijiji
+
+ok esto es para ver que pasa cuando traemos un archivo del staging al directorio cuando el archivo fue modificado
+
+ahora lo modificamos para ver que pasa
+
+ujum
